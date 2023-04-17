@@ -1,0 +1,48 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "crud_app",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "crud_app (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "crud_app (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "crud_app",
+      "cwd": "macos\\Flutter\\crud_app",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "crud_app (profile mode)",
+      "cwd": "macos\\Flutter\\crud_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "crud_app (release mode)",
+      "cwd": "macos\\Flutter\\crud_app",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "Flutter",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
